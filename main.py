@@ -10,8 +10,8 @@ bytes.
 import os
 
 LINE = (
-    "readluctance (n.) \u2014 the guilt of leaving a message on read "
-    "while drafting a reply you will never send."
+    "readluctance (n.) \u2014 the guilt of leaving someone on read "
+    "while mentally drafting a reply you will never send."
 )
 
 
